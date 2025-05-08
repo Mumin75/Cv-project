@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    max-width: 1700px;
+    height: 100%;
+    background-color: rgb(194, 159, 204);
+    margin: 0 auto;
+    padding: 20px;
+    font-family: "Roboto", sans-serif;
+}
+
+.profile{
+ width: 100px;
+ height: 120px;
+ border: 3px solid white;
+ border-radius: 50px;
+ margin: 5px;
+ float: left;
+ 
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: beige;
+}
+ .names{
+    float: left;
+    padding: 38px;
+    padding-left: 12px;
+    
+ }
+
+ .contact {
+    float: right;
+    font-size: 23px;
+    padding: 38px;
+ }
+
+ .contact p a {
+    color: beige;
+    text-decoration: none;
+    
+ }
+
+.contact p a:hover {
+    text-decoration: underline;
+    color: black;
+}
+.div-clear{
+    clear: both;
+}
+
+hr{
+    border: solid black 3px;
+    border-bottom: none;
+}
+
+
+.personal{
+    float: left;
+    padding : 200px;
+    padding-left: 50px;
+    font-size: 40px;
+
+}
+
+.info{
+    float: right;
+    padding: 60px;
+    padding-right:250px;
+
+    
+}
+
+.info p {
+    font-size: 25px;
+
+}
+
+.div-clear{
+    clear: both;
+
+}
+
+.personal2{
+    float: left;
+    padding : 200px;
+    padding-left: 50px;
+    font-size: 60px;
+
+
+}
+
+.info2{
+    float: right;
+    padding-top: 60px;
+    padding-right: 150px;
+    
+}
+
+.info2 p{
+    font-size: 30px;
+}
+
+.div-clear{
+    clear: both;
+}
+
+.personal3{
+
+    float: left;
+    padding : 200px;
+    padding-left: 50px;
+    font-size: 60px;
+
+}
+
+.info3 p{
+    font-size: 30px;
+}
+
+.info3{
+    float: left;
+    padding-top: 160px;
+    padding-left: 387px;
+}
+
+.div-clear{
+    clear: both;
+}
+
+.personal4{
+    float:left ;
+    padding-top: 90px ;
+    font-size: 60px;
+    padding-left: 45px;
+
+}
+
+.info4{
+    float: left;
+    padding-top: 50px;
+    padding-left: 750px;
+    font-size: 35px;
+
+}
+
+.div-clear{
+    clear: both;
+}
+
+.footer{
+    background-color: black;
+    height: ;
+    padding: 10px;
+    text-align: center;
+}
+
+.footer a {
+    color: beige;
+    padding-left: 20px;
+    font-size: 30px;
+    text-decoration: none;
+    
+}
+
+footer a:hover{
+    text-decoration: underline;
+    color: green;
+}
+
+
+
+footer  p {
+
+    color: beige;
+}
+
+
+
